@@ -158,7 +158,7 @@ app.post('/sendOtp', async(req,res,next)=>{
       secure: true,
       auth: {
         user: 'nkb.coder@gmail.com',
-        pass: 'cmtyvwpdhhhtxqtt'
+        pass: 'password'
       }
     });
     async function main() {
